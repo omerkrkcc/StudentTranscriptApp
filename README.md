@@ -3,8 +3,9 @@
 Student Transcript Application is a program written in C# with a postgresql database and allows you to easily manage a student management system with the systems it contains.
 
 <h2>Overview</h2>
-![transkript](https://github.com/omerkrkcc/StudentTranscriptApp/assets/92057033/2e47e92a-de27-45cb-952f-ad04a2f5633c)
-![transkript1](https://github.com/omerkrkcc/StudentTranscriptApp/assets/92057033/b5e57592-ff73-4e4b-948f-8725d36bfe83)
+
+![transkript](https://github.com/omerkrkcc/Complaint_Website/assets/92057033/aa6f0e86-5eda-45e1-aba2-8f36165ff781)
+![transkript1](https://github.com/omerkrkcc/Complaint_Website/assets/92057033/64e856ff-1b7f-46ce-a977-a207be7092c3)
 
 ## Usage
 <br>1- Extract the file from the rar.</br>
@@ -16,11 +17,11 @@ Student Transcript Application is a program written in C# with a postgresql data
 <br>7- I tried to be careful in using Turkish characters while writing the program.</br>
 <br>8- However, having Turkish characters in the file content does not pose a problem.</br>
 
-
 <br><h2>Sample run </h2></br>
 <br>Extract the file from the rar</br>
 <br>Open the file</br>
 <br>Run ogrenciTransriptUyglm.sln in the file directory.</br>
+
 ## Contribution
 All contributions are welcome. For major changes, please specify what you want to change.
 
