@@ -1,29 +1,32 @@
-ogrenci_Transkript_Uygulamasi
+<h1>Student Transcript Application </h1>
 
-ogrenci_Transkript_Uygulamasi, C# dilinde yazılmış postgresql veritabanı içeren  bir programdır ve bulundurduğu sistemlerle birlikte kolaylıkla bir öğrenci yönetim
-sistemini yönetmenize olanak tanır.
+Student Transcript Application is a program written in C# with a postgresql database and allows you to easily manage a student management system with the systems it contains.
 
-## Kullanım
-<br>1- Dosyayı rardan çıkartınız.</br>
-<br>2- Uygulamayı çalıştırmadan önce postgresql ile uygulamaya uygun bir veritabanı oluşturunuz. </br>
-<br>3- Nasıl bir veri tabanı oluşturacağınıza örnek vermek için 6 adet postgresql ekran görüntüsü paylaşılmıştır . Bu fotoğraftakilere uygun bir veritabanı oluşturabilirsiniz.</br>
-<br>4- Programın çalışması için ogrenciTranskriptUyglm.sln e tıklayınız.</br>
-<br>5- Yukarıdaki talimatları uyguladıktan sonra program ekranı karsınıza cıkacaktır.</br>
-<br>6- Uygulamada tüm istenilen kurallara ve kriterlere uyulmuştur. Ödevin diğer ödevlerle benzerlik taşımaması için özgün kod yazılmaya çalışılmıştır . </br>
-<br>7- Programın yazımı itibariyle Türkçe karakterlerin kullanımında dikkatli olmaya çalışılmıştır.</br>
-<br>8- Ancak Dosya içeriğinde Türkçe karakterlerin olması bir sorun teşkil etmemektedir.</br>
+<h2>Overview</h2>
+![transkript](https://github.com/omerkrkcc/StudentTranscriptApp/assets/92057033/2e47e92a-de27-45cb-952f-ad04a2f5633c)
+![transkript1](https://github.com/omerkrkcc/StudentTranscriptApp/assets/92057033/b5e57592-ff73-4e4b-948f-8725d36bfe83)
+
+## Usage
+<br>1- Extract the file from the rar.</br>
+<br>2- Before running the application, create a database suitable for the application with postgresql. </br>
+<br>3- The database is not shared for privacy reasons. I can help you if you contact me.</br>
+<br>4- Click ogrenciTransriptUyglm.sln for the program to work.</br>
+<br>5- After following the instructions above, the program screen will appear.</br>
+<br>6- All required rules and criteria were followed in the application. We tried to write original code so that the assignment is not similar to other assignments. </br>
+<br>7- I tried to be careful in using Turkish characters while writing the program.</br>
+<br>8- However, having Turkish characters in the file content does not pose a problem.</br>
 
 
-<br>Örnek çalıştırma </br>
-<br>Dosyayı rardan çıkarınız</br>
-<br>Dosyayı açınız</br>
-<br>ogrenciTranskriptUyglm.sln'i dosya dizini içinde çalıştırınız.</br>
-## Katkı
-Bütün katkılar hoş karşılanmaktadır. Büyük değişiklikler için lütfen neyi değiştirmek istediğinizi belirtiniz.
+<br><h2>Sample run </h2></br>
+<br>Extract the file from the rar</br>
+<br>Open the file</br>
+<br>Run ogrenciTransriptUyglm.sln in the file directory.</br>
+## Contribution
+All contributions are welcome. For major changes, please specify what you want to change.
 
-## Lisans
+## License
 MIT License Copyright (c) [2022] [ÖMER KARAKEÇE]
- Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
 and associated documentation files (the "Software"), to deal in the Software without restriction, 
 including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
 and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, 
