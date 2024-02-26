@@ -1,23 +1,23 @@
-#ogrenci_Transkript_Uygulamasi
+ogrenci_Transkript_Uygulamasi
 
 ogrenci_Transkript_Uygulamasi, C# dilinde yazılmış postgresql veritabanı içeren  bir programdır ve bulundurduğu sistemlerle birlikte kolaylıkla bir öğrenci yönetim
 sistemini yönetmenize olanak tanır.
 
 ## Kullanım
-1- Dosyayı rardan çıkartınız.
-2- Uygulamayı çalıştırmadan önce postgresql ile uygulamaya uygun bir veritabanı oluşturunuz. 
-3- Nasıl bir veri tabanı oluşturacağınıza örnek vermek için 6 adet postgresql ekran görüntüsü paylaşılmıştır . Bu fotoğraftakilere uygun bir veritabanı oluşturabilirsiniz.
-4- Programın çalışması için ogrenciTranskriptUyglm.sln e tıklayınız.
-5- Yukarıdaki talimatları uyguladıktan sonra program ekranı karsınıza cıkacaktır.
-6- Uygulamada tüm istenilen kurallara ve kriterlere uyulmuştur. Ödevin diğer ödevlerle benzerlik taşımaması için özgün kod yazılmaya çalışılmıştır . 
-7- Programın yazımı itibariyle Türkçe karakterlerin kullanımında dikkatli olmaya çalışılmıştır.
-8- Ancak Dosya içeriğinde Türkçe karakterlerin olması bir sorun teşkil etmemektedir.
+<br>1- Dosyayı rardan çıkartınız.</br>
+<br>2- Uygulamayı çalıştırmadan önce postgresql ile uygulamaya uygun bir veritabanı oluşturunuz. </br>
+<br>3- Nasıl bir veri tabanı oluşturacağınıza örnek vermek için 6 adet postgresql ekran görüntüsü paylaşılmıştır . Bu fotoğraftakilere uygun bir veritabanı oluşturabilirsiniz.</br>
+<br>4- Programın çalışması için ogrenciTranskriptUyglm.sln e tıklayınız.</br>
+<br>5- Yukarıdaki talimatları uyguladıktan sonra program ekranı karsınıza cıkacaktır.</br>
+<br>6- Uygulamada tüm istenilen kurallara ve kriterlere uyulmuştur. Ödevin diğer ödevlerle benzerlik taşımaması için özgün kod yazılmaya çalışılmıştır . </br>
+<br>7- Programın yazımı itibariyle Türkçe karakterlerin kullanımında dikkatli olmaya çalışılmıştır.</br>
+<br>8- Ancak Dosya içeriğinde Türkçe karakterlerin olması bir sorun teşkil etmemektedir.</br>
 
 
-Örnek çalıştırma,
-Dosyayı rardan çıkarınız
-Dosyayı açınız
-ogrenciTranskriptUyglm.sln'i dosya dizini içinde çalıştırınız.
+<br>Örnek çalıştırma </br>
+<br>Dosyayı rardan çıkarınız</br>
+<br>Dosyayı açınız</br>
+<br>ogrenciTranskriptUyglm.sln'i dosya dizini içinde çalıştırınız.</br>
 ## Katkı
 Bütün katkılar hoş karşılanmaktadır. Büyük değişiklikler için lütfen neyi değiştirmek istediğinizi belirtiniz.
 
